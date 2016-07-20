@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "278647867500",
+    "firebase_url": "https://chat-app-cc719.firebaseio.com",
+    "project_id": "chat-app-cc719",
+    "storage_bucket": "chat-app-cc719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278647867500:android:66835d1e4dad6910",
+        "android_client_info": {
+          "package_name": "com.hexazexa.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278647867500-eufrda3fr1js59f5shj6m2nup8lr59gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy8PMNnuFIXMX8LeNkj7dewX5y4MGG7rI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
